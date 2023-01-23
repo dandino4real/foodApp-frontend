@@ -1,0 +1,12 @@
+.post{
+    padding:5% 0% 5% 10%;
+}
+.flexDiv{
+    display:flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+
+}
+.flexDiv image{
+    height: 30hv;
+}
